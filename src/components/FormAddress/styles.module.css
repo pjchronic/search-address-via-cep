@@ -1,0 +1,39 @@
+.formsContainer {
+    box-sizing: border-box;
+    width: 50rem;
+    height: 13rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    background-color: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(10px);
+    border-radius: 1.5rem;
+}
+
+.formsContainer__credits {
+    align-self: flex-end;
+    position: absolute;
+    font-size: 12px;
+    font-weight: 100;
+}
+
+.container__uf {
+    width: 3rem;
+}
+
+.container__line {
+    width: 46rem;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.container__logra {
+    width: 28rem;
+}
+
+.container__bairro {
+    width: 8rem;
+}

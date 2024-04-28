@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: url(../public/background-address.jpg) no-repeat center center fixed;
+    background-size: cover;
+
+}
