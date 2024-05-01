@@ -38,8 +38,6 @@ A configuração inicial  do projeto foi feita com a ferramenta [Vite](https://v
   
   Aqui, o objetivo é com as entregas de valor, onde a minha pretenção é trabalhar neste projeto e melhorá-lo a cada sprint que eu conseguir trabalhar em cima dele, trazendo uma nova feature a cada deploy.
 
-
-
 # Onde quero chegar com este projeto?
 
 Para explicar nosso objetivo, falando da entrega do projeto, preciso primeiro explicar o que temos feito neste primeiro deploy.
@@ -47,8 +45,6 @@ Para explicar nosso objetivo, falando da entrega do projeto, preciso primeiro ex
 ### O Primeiro Deploy
 
 Em nossa primeira versão temos um serviço, onde é possível verificar o seu endereço ao digitar o número do CEP, isso é possível devido a API da [Via CEP](https://viacep.com.br). Com uma aparencia amigável e prática, nossa primeira entrega de valor envolve apenas esta função.
-
-
 
 ### O Último Deploy
 
@@ -60,10 +56,6 @@ Em nossa primeira versão temos um serviço, onde é possível verificar o seu e
   
   No apse desta aplicação, quero entregar não apenas o cenário acima mas também fazer o envio das informações de endereço por e-mail.
 
-
-
 # Contribuições?
 
 A ideia aqui é trazer um projeto simples para fixar e demonstrar conceitos práticos, sendo um projeto de demonstração pessoal do que eu consigo fazer até o momento como desenvolvedor FrontEnd Júnior. Contribuições são super bem-vindas, como dicas, criticas construtivas e pontos de melhorias, agradeço à todos que se dispuserem a contribuir intelectualmente e me ajudar a crescer como profissional.
-
-

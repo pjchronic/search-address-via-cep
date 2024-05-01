@@ -13,13 +13,13 @@ const CepValidationHook: React.FC<{
   // início do componente
   const [inputValueChange, setInputValueChange] = useState<string>("");
   const [CepResponse, setCepResponse] = useState<CepResponse | null>(null);
-  const [error, setError] = useState<boolean | undefined>(undefined);
+  const [error, setError] = useState<boolean | undefined>(true);
 
   useEffect(() => {
     // Popula informações nas props para envio ao componente pai
     validate(!error);
     objectResultData(CepResponse);
-  }, [error, CepResponse, validate, objectResultData]);
+  }, [error, CepResponse]);
 
   const handleChangeCep = async (event: ChangeEvent<HTMLInputElement>) => {
     //Verifica evento de interação com textfield
